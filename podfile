@@ -1,0 +1,4 @@
+target "MiyaFMDB" do
+pod 'FMDB'
+
+end
